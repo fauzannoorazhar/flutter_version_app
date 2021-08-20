@@ -11,8 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_bloc: ^7.0.1
-  equatable: ^2.0.2
+  flutter_bloc: any
+  equatable: any
   launch_review: ^3.0.1
 
 dev_dependencies:
